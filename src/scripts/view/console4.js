@@ -1,8 +1,6 @@
 "use strict";
 
-define([
-  "backbone"
-], function(Backbone) {
+define([], function() {
 
   var Console = function() {
   };
